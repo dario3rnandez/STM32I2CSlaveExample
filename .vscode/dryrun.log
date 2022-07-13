@@ -1,0 +1,5 @@
+make: Entering directory '/home/dac/STM32CubeIDE/workspace_1.9.0/TestI2CSlave'
+make: Leaving directory '/home/dac/STM32CubeIDE/workspace_1.9.0/TestI2CSlave'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
